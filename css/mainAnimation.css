@@ -1,0 +1,26 @@
+@keyframes on {
+    0%{
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+    }
+}
+
+@keyframes leftMove {
+    0%{
+        left: -150%
+    }
+    100% {
+        left: -100%;
+    }
+}
+
+@keyframes rightMove {
+    0%{
+        right: -150%
+    }
+    100% {
+        right: -100%;
+    }
+}

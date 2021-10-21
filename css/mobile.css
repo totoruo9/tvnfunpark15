@@ -1,0 +1,53 @@
+html {
+    font-size: 8px;
+}
+
+body {
+    padding:0;
+}
+
+.wrap {
+    /* height: 100vh;
+    display: flex;
+    flex-direction: column;
+    overflow-y: hidden; */
+}
+
+main {
+    padding: 3rem
+}
+
+/* Visual */
+#logo {
+    max-width: 7rem;
+}
+
+.info .title .subtitle {
+    max-width: 24rem;
+}
+
+.info .date {
+    max-width: 28rem;
+}
+
+.leaf .leaf-top {
+    max-width: 12rem;
+}
+
+.leaf .leaf-bottom {
+    max-width: 11rem;
+}
+
+/* Event */
+.event {
+    padding: 3rem 2.5rem;
+}
+
+.btn__wrap a {
+    max-width: 34rem;
+    display: inline-block;
+}
+
+.event h2 {
+    padding: 0 4.5rem;
+}

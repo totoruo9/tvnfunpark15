@@ -1,0 +1,21 @@
+html {
+    font-size: 12px;
+}
+
+body {
+    padding:0;
+}
+
+.leaf .leaf-top {
+    position: absolute;
+    top:0;
+    left: 0;
+    max-width: 13.75rem;
+}
+
+.leaf .leaf-bottom {
+    position: absolute;
+    bottom:0;
+    right: 0;
+    max-width: 12.75rem;
+}
